@@ -37,7 +37,7 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_checkoutprofile_web_tax_ad
 
 "Step 4: Take full page screenshot as checkpoint"
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC1-Verify Access to Myti Dashboard and Checkout Profile Web Addresses_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC3-Verify Accessing Web Addresses from Myti Dashboard_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

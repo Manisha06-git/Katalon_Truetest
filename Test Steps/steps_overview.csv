@@ -1,5 +1,57 @@
 Flow ID,Name,Description,Test Steps,Flow Priority
-1,Verify Access to Myti Dashboard and Checkout Profile Web Addresses,"Navigate to the checkout profile web tax add page and access the Myti dashboard. From the dashboard, navigate to the checkout profile web addresses page. Verify that the pageCheckoutprofileWebAddresses is accessible.","step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax/add
+1,Verify Adding Checkout Profiles on Web Addresses,Navigate to the page for adding checkout profiles related to web addresses. Perform the required actions and verify the addition of checkout profiles.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax
+step 2: Click on link 'ti-breadcrumb-section-0'
+step 3: Click on link 'ti-breadcrumb-section-0' -> Navigate to page 'checkoutprofile/web/addresses'
+step 4: Click on span
+step 5: Click on span  -> Navigate to page 'checkoutprofile/web/addresses/add'
+step 6: Enter input value in ti
+step 7: Click on div
+step 8: Enter input value in ti
+step 9: Click on div  -> Navigate to page 'checkoutprofile/web/checkoutprofiles/add'
+step 10: Take full page screenshot as checkpoint",High
+2,Verify Adding Checkout Profiles and Tax Information,Navigate to the page for adding tax information. Enter the required details and proceed with adding checkout profiles. Verify the successful addition of checkout profiles.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax
+step 2: Click on ti
+step 3: Click on ti  -> Navigate to page 'checkoutprofile/web/tax/add'
+step 4: Click on select 'taxCountryIsoCode'
+step 5: Click on select 'taxCountryIsoCode'
+step 6: Click on select 'taxCountryIsoCode'
+step 7: Click on select 'taxCountryIsoCode'
+step 8: Click on select 'taxCountryIsoCode'
+step 9: Click on select 'taxCountryIsoCode'
+step 10: Enter input value in input field 'tax1Id'
+step 11: Click on input field 'email'
+step 12: Enter input value in input field 'tax1Id'
+step 13: Click on input field 'email'
+step 14: Enter input value in input field 'email'
+step 15: Enter input value in input field 'email'
+step 16: Click on input field 'companyName'
+step 17: Click on input field 'companyName'
+step 18: Enter input value in input field 'companyName'
+step 19: Click on input field 'address1'
+step 20: Enter input value in input field 'companyName'
+step 21: Click on input field 'address1'
+step 22: Enter input value in input field 'address1'
+step 23: Click on input field 'address2'
+step 24: Enter input value in input field 'address1'
+step 25: Click on input field 'address2'
+step 26: Enter input value in input field 'address2'
+step 27: Click on section
+step 28: Enter input value in input field 'address2'
+step 29: Click on section
+step 30: Enter input value in input field 'address2'
+step 31: Click on input field 'town'
+step 32: Enter input value in input field 'address2'
+step 33: Click on input field 'town'
+step 34: Enter input value in input field 'town'
+step 35: Click on input field ' submitbtn' -> Navigate to page 'checkoutprofile/web/checkoutprofiles/add'
+step 36: Click on ti
+step 37: Click on ti
+step 38: Click on ti
+step 39: Click on ti
+step 40: Click on ti
+step 41: Click on link 'Save' -> Navigate to page 'checkoutprofile/web/checkoutprofiles'
+step 42: Take full page screenshot as checkpoint",High
+3,Verify Accessing Web Addresses from Myti Dashboard,Navigate to the page for adding tax information and proceed to access web addresses from the Myti dashboard. Verify the successful access to web addresses.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax/add
 step 2: Click on link 'myTI dashboard'
 step 3: Click on link 'myTI dashboard' -> Navigate to page 'checkoutprofile/web/addresses'
 step 4: Take full page screenshot as checkpoint",Trivial
