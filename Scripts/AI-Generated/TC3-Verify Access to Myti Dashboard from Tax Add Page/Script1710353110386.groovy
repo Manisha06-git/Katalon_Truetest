@@ -1,5 +1,5 @@
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.model.FailureHandling
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import internal.GlobalVariable as GlobalVariable
 
@@ -37,7 +37,7 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_checkoutprofile_web_tax_ad
 
 "Step 4: Take full page screenshot as checkpoint"
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC3-Verify Accessing Addresses from My ti Dashboard_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC3-Verify Access to Myti Dashboard from Tax Add Page_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
