@@ -1,7 +1,7 @@
-import com.kms.katalon.core.model.FailureHandling
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import internal.GlobalVariable as GlobalVariable
+import com.kms.katalon.core.model.FailureHandling
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 
 'Initialize test session: Open browser and set view port'
 
@@ -417,7 +417,7 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_checkoutprofile_web_checko
 
 "Step 42: Take full page screenshot as checkpoint"
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC2-Verify Adding Checkout Profile Web Checkout Profiles_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC2-Verify Adding Checkout Profile in Web Checkout Profiles_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

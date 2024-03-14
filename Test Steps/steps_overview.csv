@@ -1,5 +1,5 @@
 Flow ID,Name,Description,Test Steps,Flow Priority
-1,Verify Adding Checkout Profile Web Addresses,Navigate to the tax page and add a new address for the checkout profile. Verify the successful addition of the checkout profile web address.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax
+1,Verify Adding Checkout Profile in Web Addresses,Navigate to the page for adding a checkout profile in web addresses. Perform the required actions and verify the successful addition of the checkout profile.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax
 step 2: Click on link 'ti-breadcrumb-section-0'
 step 3: Click on link 'ti-breadcrumb-section-0' -> Navigate to page 'checkoutprofile/web/addresses'
 step 4: Click on span
@@ -9,7 +9,7 @@ step 7: Click on div
 step 8: Enter input value in ti
 step 9: Click on div  -> Navigate to page 'checkoutprofile/web/checkoutprofiles/add'
 step 10: Take full page screenshot as checkpoint",High
-2,Verify Adding Checkout Profile Web Checkout Profiles,Navigate to the tax page and add a new checkout profile with detailed information. Proceed to save the checkout profile and verify the successful addition.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax
+2,Verify Adding Checkout Profile in Web Checkout Profiles,Navigate to the page for adding a checkout profile in web tax. Enter the necessary details and complete the checkout profile addition process. Verify the successful addition of the checkout profile.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax
 step 2: Click on ti
 step 3: Click on ti  -> Navigate to page 'checkoutprofile/web/tax/add'
 step 4: Click on select 'taxCountryIsoCode'
@@ -51,7 +51,7 @@ step 39: Click on ti
 step 40: Click on ti
 step 41: Click on link 'Save' -> Navigate to page 'checkoutprofile/web/checkoutprofiles'
 step 42: Take full page screenshot as checkpoint",High
-3,Verify Access to Myti Dashboard from Tax Add Page,Navigate to the tax add page and access the Myti dashboard. Verify the successful redirection to the web addresses page.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax/add
+3,Verify Accessing Web Addresses from Myti Dashboard,Navigate to the page for adding a tax in web addresses from the Myti dashboard. Verify the successful access to the web addresses page.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax/add
 step 2: Click on link 'myTI dashboard'
 step 3: Click on link 'myTI dashboard' -> Navigate to page 'checkoutprofile/web/addresses'
 step 4: Take full page screenshot as checkpoint",Trivial
