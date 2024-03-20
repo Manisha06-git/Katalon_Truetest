@@ -1,75 +1,21 @@
 Flow ID,Name,Description,Test Steps,Flow Priority
-4,Verify Adding Tax Information to Checkout Profile,Navigate to the tax page and add tax information to the checkout profile. Fill in the required details and submit the form. Verify that the tax information is successfully added to the checkout profile.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax
-step 2: Click on span
-step 3: Click on span  -> Navigate to page 'checkoutprofile/web/tax/add'
-step 4: Click on select 'taxCountryIsoCode'
-step 5: Click on select 'taxCountryIsoCode'
-step 6: Click on select 'taxCountryIsoCode'
-step 7: Click on select 'taxCountryIsoCode'
-step 8: Click on ti 'specialInvoiceRadio'
-step 9: Click on ti 'specialInvoiceRadio'
-step 10: Click on input field 'invoiceTitle'
-step 11: Click on input field 'invoiceTitle'
-step 12: Enter input value in input field 'invoiceTitle'
-step 13: Click on p
-step 14: Enter input value in input field 'invoiceTitle'
-step 15: Click on p
-step 16: Click on input field 'recepientName'
-step 17: Click on input field 'recepientName'
-step 18: Click on input field 'companyName'
-step 19: Click on input field 'companyName'
-step 20: Enter input value in input field 'companyName'
-step 21: Enter input value in input field 'companyName'
-step 22: Enter input value in input field 'vatInvoicePhoneNumber'
-step 23: Click on input field 'address1'
-step 24: Enter input value in input field 'vatInvoicePhoneNumber'
-step 25: Click on input field 'address1'
-step 26: Click on div
-step 27: Click on div
-step 28: Click on input field 'address1'
-step 29: Click on input field 'address1'
-step 30: Click on input field 'town'
-step 31: Click on input field 'town'
-step 32: Click on input field 'state'
-step 33: Click on input field 'state'
-step 34: Click on input field 'town'
-step 35: Click on input field 'town'
-step 36: Click on div
-step 37: Click on div
-step 38: Click on section
-step 39: Click on section
-step 40: Enter input value in input field 'town'
-step 41: Click on section
-step 42: Enter input value in input field 'town'
-step 43: Click on section
-step 44: Enter input value in input field 'state'
-step 45: Click on section
-step 46: Enter input value in input field 'state'
-step 47: Click on section
-step 48: Enter input value in input field 'address1'
-step 49: Click on section
-step 50: Enter input value in input field 'address1'
-step 51: Click on section
-step 52: Enter input value in input field 'companyName'
-step 53: Click on div
-step 54: Enter input value in input field 'companyName'
-step 55: Click on div
-step 56: Click on section
-step 57: Click on section
-step 58: Enter input value in input field 'companyName'
-step 59: Enter input value in input field 'companyName'
-step 60: Click on input field ' submitbtn'
-step 61: Click on input field ' submitbtn' -> Navigate to page 'checkoutprofile/web/checkoutprofiles/add'
-step 62: Click on ti
-step 63: Click on ti
-step 64: Click on ti
-step 65: Click on ti
-step 66: Click on ti
-step 67: Click on link 'Save' -> Navigate to page 'checkoutprofile/web/checkoutprofiles'
-step 68: Take full page screenshot as checkpoint",High
-2,Verify Editing Tax Information in Checkout Profile,Navigate to the tax page and edit the tax information in the checkout profile. Update the required details and submit the form. Verify that the tax information is successfully edited in the checkout profile.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax
-step 2: Click on span
-step 3: Click on span  -> Navigate to page 'checkoutprofile/web/tax/add'
+1,Verify Checkout Profile Web Addresses Add Functionality,Navigate to the checkout profile web addresses add page. Perform a series of clicks and inputs to add and edit information. Verify that the checkout profile web addresses add functionality works as expected.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/addresses/add
+step 2: Click on ti
+step 3: Click on ti
+step 4: Click on ti
+step 5: Click on ti
+step 6: Click on ti
+step 7: Click on ti
+step 8: Enter input value in ti
+step 9: Click on div
+step 10: Enter input value in ti
+step 11: Click on div
+step 12: Click on ti
+step 13: Click on ti  -> Navigate to page 'checkoutprofile/web/checkoutprofiles'
+step 14: Take full page screenshot as checkpoint",High
+2,Verify Checkout Profile Web Tax Functionality,Navigate to the checkout profile web tax page. Perform a series of clicks and inputs to add and edit tax-related information. Verify that the checkout profile web tax functionality works as expected.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax
+step 2: Click on ti
+step 3: Click on ti  -> Navigate to page 'checkoutprofile/web/tax/add'
 step 4: Click on select 'taxCountryIsoCode'
 step 5: Click on select 'taxCountryIsoCode'
 step 6: Click on select 'taxCountryIsoCode'
@@ -162,14 +108,4 @@ step 92: Enter input value in input field 'companyName'
 step 93: Enter input value in input field 'companyName'
 step 94: Click on input field ' submitbtn'
 step 95: Click on input field ' submitbtn' -> Navigate to page 'checkoutprofile/web/tax'
-step 96: Take full page screenshot as checkpoint",High
-3,Verify Adding Checkout Profile from Myti Dashboard,Navigate to the tax page and access the Myti dashboard. Add a new checkout profile from the dashboard. Verify that the checkout profile is successfully added.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax
-step 2: Click on link 'myTI dashboard'
-step 3: Click on link 'myTI dashboard' -> Navigate to page 'checkoutprofile/web/checkoutprofiles'
-step 4: Click on span
-step 5: Click on span  -> Navigate to page 'checkoutprofile/web/checkoutprofiles/add'
-step 6: Take full page screenshot as checkpoint",Medium
-1,Verify Adding Tax Information via Object in Checkout Profile,Navigate to the tax page and add tax information via the object in the checkout profile. Verify that the tax information is successfully added via the object.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax
-step 2: Click on ti
-step 3: Click on ti  -> Navigate to page 'checkoutprofile/web/tax/add'
-step 4: Take full page screenshot as checkpoint",Trivial
+step 96: Take full page screenshot as checkpoint",Trivial
