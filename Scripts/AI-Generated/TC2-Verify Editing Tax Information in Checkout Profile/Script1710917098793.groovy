@@ -1,7 +1,7 @@
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.model.FailureHandling
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import internal.GlobalVariable as GlobalVariable
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 'Initialize test session: Open browser and set view port'
 
@@ -15,25 +15,25 @@ def setup() {
 
 WebUI.navigateToUrl(GlobalVariable.application_domain + '/checkoutprofile/web/tax')
 
-"Step 2: Click on ti"
+"Step 2: Click on span"
 
 WebUI.takeScreenshot()
 
-WebUI.verifyElementPresent(findTestObject('AI-Generated/Page_checkoutprofile_web_tax/ti_object'), 20, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementPresent(findTestObject('AI-Generated/Page_checkoutprofile_web_tax/span_object'), 20, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/checkoutprofile/web/tax?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_checkoutprofile_web_tax/ti_object'))
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_checkoutprofile_web_tax/span_object'))
 
-"Step 3: Click on ti  -> Navigate to page 'checkoutprofile/web/tax/add'"
+"Step 3: Click on span  -> Navigate to page 'checkoutprofile/web/tax/add'"
 
 WebUI.takeScreenshot()
 
-WebUI.verifyElementPresent(findTestObject('AI-Generated/Page_checkoutprofile_web_tax/ti_object'), 20, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.verifyElementPresent(findTestObject('AI-Generated/Page_checkoutprofile_web_tax/span_object'), 20, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.verifyMatch(WebUI.getUrl(), GlobalVariable.application_domain + '/checkoutprofile/web/tax?/?(?:#.*)?(?:\\?.*)?$', true)
 
-WebUI.enhancedClick(findTestObject('AI-Generated/Page_checkoutprofile_web_tax/ti_object'))
+WebUI.enhancedClick(findTestObject('AI-Generated/Page_checkoutprofile_web_tax/span_object'))
 
 "Step 4: Click on select 'taxCountryIsoCode'"
 
@@ -957,7 +957,7 @@ WebUI.enhancedClick(findTestObject('AI-Generated/Page_checkoutprofile_web_tax_ad
 
 "Step 96: Take full page screenshot as checkpoint"
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC2-Verify Checkout Profile Web Tax Functionality_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC2-Verify Editing Tax Information in Checkout Profile_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
