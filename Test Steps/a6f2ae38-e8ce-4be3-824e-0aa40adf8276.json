@@ -1,8 +1,8 @@
 {
     "steps": [
         "step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax",
-        "step 2: Click on span",
-        "step 3: Click on span  -> Navigate to page 'checkoutprofile/web/tax/add'",
+        "step 2: Click on ti",
+        "step 3: Click on ti  -> Navigate to page 'checkoutprofile/web/tax/add'",
         "step 4: Click on select 'taxCountryIsoCode'",
         "step 5: Click on select 'taxCountryIsoCode'",
         "step 6: Click on select 'taxCountryIsoCode'",
