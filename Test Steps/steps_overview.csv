@@ -1,5 +1,5 @@
 Flow ID,Name,Description,Test Steps,Flow Priority
-4,Verify Industrial Building Automation Overview Page,Navigate to the Industrial Building Automation Overview page from the home menu. Select the desired language and perform a search. Verify the displayed search results page.,"step 1: Navigate to https://www-int.itg.ti.com/
+1,Verify Industrial Building Automation Overview in Applications,Navigate to the applications page and access the industrial section. View the building automation overview in the selected language. Perform a search and verify the displayed page.,"step 1: Navigate to https://www-int.itg.ti.com/
 step 2: Click on link 'Menu'
 step 3: Click on link 'Applications'
 step 4: Click on link 'Industrial'
@@ -9,23 +9,11 @@ step 7: Click on ti
 step 8: Click on link 'Search'
 step 9: Click on atomic 'headerSearchBox' -> Navigate to page 'sitesearch/en-us/docs/universalsearch.tsp'
 step 10: Take full page screenshot as checkpoint",High
-2,Verify Adding Tax in Checkout Profile,Navigate to the checkout profile web tax page. Add tax and verify the successful addition.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax
-step 2: Click on ti
-step 3: Click on ti  -> Navigate to page 'checkoutprofile/web/tax/add'
-step 4: Take full page screenshot as checkpoint",High
-1,Verify Checkout Profile Web Tax,Navigate to the checkout profile web tax page and perform multiple interactions. Verify the checkout profile web tax page.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax
-step 2: Click on ti
+2,Verify Cart Page after Adding Items,Navigate to the home page and perform a search. Proceed to checkout and verify the displayed cart page.,"step 1: Navigate to https://www-int.itg.ti.com/
+step 2: Click on atomic 'headerSearchBox' -> Navigate to page 'sitesearch/en-us/docs/universalsearch.tsp'
 step 3: Click on ti
 step 4: Click on ti
 step 5: Click on ti
-step 6: Click on ti
-step 7: Click on ti
-step 8: Take full page screenshot as checkpoint",Low
-3,Verify Adding Tax in Checkout Profile,Navigate to the checkout profile web tax page. Add tax and verify the successful addition.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax
-step 2: Click on ti
-step 3: Click on ti  -> Navigate to page 'checkoutprofile/web/tax/add'
-step 4: Click on select 'taxCountryIsoCode'
-step 5: Click on select 'taxCountryIsoCode'
-step 6: Click on select 'taxCountryIsoCode'
-step 7: Click on select 'taxCountryIsoCode'
+step 6: Enter input value in ti
+step 7: Click on link 'Checkout' -> Navigate to page 'store/en-us/cart'
 step 8: Take full page screenshot as checkpoint",Trivial
