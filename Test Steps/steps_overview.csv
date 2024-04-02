@@ -1,111 +1,31 @@
 Flow ID,Name,Description,Test Steps,Flow Priority
-1,Verify Adding Web Addresses to Checkout Profile,Navigate to the checkout profile web addresses section. Add and input the required information for the web addresses. Verify the added web addresses in the checkout profile.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/addresses/add
+4,Verify Industrial Building Automation Overview Page,Navigate to the Industrial Building Automation Overview page from the home menu. Select the desired language and perform a search. Verify the displayed search results page.,"step 1: Navigate to https://www-int.itg.ti.com/
+step 2: Click on link 'Menu'
+step 3: Click on link 'Applications'
+step 4: Click on link 'Industrial'
+step 5: Click on list  -> Navigate to page 'applications/industrial/building-automation/overview.html'
+step 6: Click on link 'Language'
+step 7: Click on ti
+step 8: Click on link 'Search'
+step 9: Click on atomic 'headerSearchBox' -> Navigate to page 'sitesearch/en-us/docs/universalsearch.tsp'
+step 10: Take full page screenshot as checkpoint",High
+2,Verify Adding Tax in Checkout Profile,Navigate to the checkout profile web tax page. Add tax and verify the successful addition.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax
+step 2: Click on ti
+step 3: Click on ti  -> Navigate to page 'checkoutprofile/web/tax/add'
+step 4: Take full page screenshot as checkpoint",High
+1,Verify Checkout Profile Web Tax,Navigate to the checkout profile web tax page and perform multiple interactions. Verify the checkout profile web tax page.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax
 step 2: Click on ti
 step 3: Click on ti
 step 4: Click on ti
 step 5: Click on ti
 step 6: Click on ti
 step 7: Click on ti
-step 8: Enter input value in ti
-step 9: Click on div
-step 10: Enter input value in ti
-step 11: Click on div
-step 12: Click on ti
-step 13: Click on ti  -> Navigate to page 'checkoutprofile/web/checkoutprofiles'
-step 14: Take full page screenshot as checkpoint",High
-2,Verify Tax Information in Checkout Profile Web,Navigate to the tax section in the checkout profile web. Add and input the necessary tax details. Verify the tax information in the checkout profile web.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax
+step 8: Take full page screenshot as checkpoint",Low
+3,Verify Adding Tax in Checkout Profile,Navigate to the checkout profile web tax page. Add tax and verify the successful addition.,"step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax
 step 2: Click on ti
 step 3: Click on ti  -> Navigate to page 'checkoutprofile/web/tax/add'
 step 4: Click on select 'taxCountryIsoCode'
 step 5: Click on select 'taxCountryIsoCode'
 step 6: Click on select 'taxCountryIsoCode'
 step 7: Click on select 'taxCountryIsoCode'
-step 8: Click on ti 'specialInvoiceRadio'
-step 9: Click on ti 'specialInvoiceRadio'
-step 10: Click on input field 'invoiceTitle'
-step 11: Click on input field 'invoiceTitle'
-step 12: Enter input value in input field 'invoiceTitle'
-step 13: Enter input value in input field 'invoiceTitle'
-step 14: Click on input field 'invoiceTitle'
-step 15: Click on input field 'invoiceTitle'
-step 16: Enter input value in input field 'invoiceTitle'
-step 17: Enter input value in input field 'invoiceTitle'
-step 18: Click on input field 'taxRegistrationNumber'
-step 19: Click on input field 'taxRegistrationNumber'
-step 20: Click on input field 'invoiceTitle'
-step 21: Click on input field 'invoiceTitle'
-step 22: Enter input value in input field 'invoiceTitle'
-step 23: Enter input value in input field 'invoiceTitle'
-step 24: Click on input field 'invoiceTitle'
-step 25: Click on input field 'invoiceTitle'
-step 26: Enter input value in input field 'invoiceTitle'
-step 27: Click on section
-step 28: Enter input value in input field 'invoiceTitle'
-step 29: Click on section
-step 30: Enter input value in input field 'invoiceTitle'
-step 31: Click on p
-step 32: Enter input value in input field 'invoiceTitle'
-step 33: Click on p
-step 34: Click on ti 'cancelBtn'
-step 35: Click on ti 'cancelBtn' -> Navigate to page 'checkoutprofile/web/tax'
-step 36: Click on span
-step 37: Click on span  -> Navigate to page 'checkoutprofile/web/tax/add'
-step 38: Click on select 'taxCountryIsoCode'
-step 39: Click on select 'taxCountryIsoCode'
-step 40: Click on select 'taxCountryIsoCode'
-step 41: Click on select 'taxCountryIsoCode'
-step 42: Click on ti 'specialInvoiceRadio'
-step 43: Click on ti 'specialInvoiceRadio'
-step 44: Click on input field 'invoiceTitle'
-step 45: Click on input field 'invoiceTitle'
-step 46: Enter input value in input field 'invoiceTitle'
-step 47: Click on p
-step 48: Enter input value in input field 'invoiceTitle'
-step 49: Click on p
-step 50: Click on input field 'recepientName'
-step 51: Click on input field 'recepientName'
-step 52: Click on input field 'companyName'
-step 53: Click on input field 'companyName'
-step 54: Enter input value in input field 'companyName'
-step 55: Enter input value in input field 'companyName'
-step 56: Enter input value in input field 'vatInvoicePhoneNumber'
-step 57: Click on input field 'address1'
-step 58: Enter input value in input field 'vatInvoicePhoneNumber'
-step 59: Click on input field 'address1'
-step 60: Click on div
-step 61: Click on div
-step 62: Click on input field 'address1'
-step 63: Click on input field 'address1'
-step 64: Click on input field 'town'
-step 65: Click on input field 'town'
-step 66: Click on input field 'state'
-step 67: Click on input field 'state'
-step 68: Click on input field 'town'
-step 69: Click on input field 'town'
-step 70: Click on div
-step 71: Click on div
-step 72: Click on section
-step 73: Click on section
-step 74: Enter input value in input field 'town'
-step 75: Click on section
-step 76: Enter input value in input field 'town'
-step 77: Click on section
-step 78: Enter input value in input field 'state'
-step 79: Click on section
-step 80: Enter input value in input field 'state'
-step 81: Click on section
-step 82: Enter input value in input field 'address1'
-step 83: Click on section
-step 84: Enter input value in input field 'address1'
-step 85: Click on section
-step 86: Enter input value in input field 'companyName'
-step 87: Click on div
-step 88: Enter input value in input field 'companyName'
-step 89: Click on div
-step 90: Click on section
-step 91: Click on section
-step 92: Enter input value in input field 'companyName'
-step 93: Enter input value in input field 'companyName'
-step 94: Click on input field ' submitbtn'
-step 95: Click on input field ' submitbtn' -> Navigate to page 'checkoutprofile/web/tax'
-step 96: Take full page screenshot as checkpoint",Trivial
+step 8: Take full page screenshot as checkpoint",Trivial

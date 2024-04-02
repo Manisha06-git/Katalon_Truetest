@@ -1,0 +1,14 @@
+{
+    "steps": [
+        "step 1: Navigate to https://www-int.itg.ti.com/",
+        "step 2: Click on link 'Menu'",
+        "step 3: Click on link 'Applications'",
+        "step 4: Click on link 'Industrial'",
+        "step 5: Click on list  -> Navigate to page 'applications/industrial/building-automation/overview.html'",
+        "step 6: Click on link 'Language'",
+        "step 7: Click on ti",
+        "step 8: Click on link 'Search'",
+        "step 9: Click on atomic 'headerSearchBox' -> Navigate to page 'sitesearch/en-us/docs/universalsearch.tsp'",
+        "step 10: Take full page screenshot as checkpoint"
+    ]
+}
