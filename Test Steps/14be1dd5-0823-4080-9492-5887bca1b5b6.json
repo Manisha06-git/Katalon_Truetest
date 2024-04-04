@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to https://www-int.itg.ti.com/",
+        "step 2: Click on link 'Applications'",
+        "step 3: Click on link 'Design & development'",
+        "step 4: Click on link 'Partner directory' -> Navigate to page 'design-development/partner-directory.html'",
+        "step 5: Click on ti  -> Navigate to page 'sitesearch/en-us/docs/universalsearch.tsp'",
+        "step 6: Take full page screenshot as checkpoint"
+    ]
+}

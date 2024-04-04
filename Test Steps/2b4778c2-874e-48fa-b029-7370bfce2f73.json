@@ -1,0 +1,27 @@
+{
+    "steps": [
+        "step 1: Navigate to https://www-int.itg.ti.com/",
+        "step 2: Enter contact details, order parts, and provide return details",
+        "step 3: Click labels, input data, and select options",
+        "step 4: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showfileUpload.tsp'",
+        "step 5: Click on list",
+        "step 6: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showAnalogSummary.tsp'",
+        "step 7: Click on link 'Modify return' -> Navigate to page 'productreturns/docs/editReturn.tsp'",
+        "step 8: Click on link 'Part details' -> Navigate to page ''",
+        "step 9: View return details, select defect details, and provide information",
+        "step 10: Click on link 'Return details' -> Navigate to page 'productreturns/docs/showReturnDetails.tsp'",
+        "step 11: Click on button 'Submit1' -> Navigate to page ''",
+        "step 12: View return details, select defect details, and provide information",
+        "step 13: Upload files, view return details, and provide electrical issue details",
+        "step 14: Click on link 'Upload files'",
+        "step 15: Click on link 'modalBtnText' -> Navigate to page 'productreturns/docs/showfileUpload.tsp'",
+        "step 16: Click on select 'Uploaddescription'",
+        "step 17: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showAnalogSummary.tsp'",
+        "step 18: Click on link 'Modify return' -> Navigate to page 'productreturns/docs/editReturn.tsp'",
+        "step 19: Click on link 'Upload files' -> Navigate to page 'productreturns/docs/showfileUpload.tsp'",
+        "step 20: Click on select 'Uploaddescription' -> Navigate to page ''",
+        "step 21: Submit form, modify return, and upload files",
+        "step 22: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showAnalogSummary.tsp'",
+        "step 23: Take full page screenshot as checkpoint"
+    ]
+}

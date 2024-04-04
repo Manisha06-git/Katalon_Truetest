@@ -1,0 +1,13 @@
+{
+    "steps": [
+        "step 1: Navigate to https://www-int.itg.ti.com/ja-jp/homepage.html",
+        "step 2: Click on link",
+        "step 3: Click on link 'RF \u3068\u30de\u30a4\u30af\u30ed\u6ce2'",
+        "step 4: Click on link '\u96fb\u6e90IC'",
+        "step 5: Click on link '\u96fb\u6e90IC'",
+        "step 6: Click on link 'Menu'",
+        "step 7: Click on link '\u88fd\u54c1'",
+        "step 8: Click on link '\u96fb\u6e90IC'",
+        "step 9: Take full page screenshot as checkpoint"
+    ]
+}

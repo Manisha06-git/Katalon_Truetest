@@ -1,0 +1,24 @@
+{
+    "steps": [
+        "step 1: Navigate to https://www-int.itg.ti.com/",
+        "step 2: Click on link 'Menu'",
+        "step 3: Click on link 'Products'",
+        "step 4: Click on link 'Interface'",
+        "step 5: Click on link 'responsiveHeader-back-button'",
+        "step 6: Browse power management and architecture",
+        "step 7: Click on link 'responsiveHeader-back-button'",
+        "step 8: Browse power management and architecture",
+        "step 9: Click on link 'Browse by Architecture'",
+        "step 10: Click on div 'responsiveHeader-overlay'",
+        "step 11: Click on link 'Menu'",
+        "step 12: Click on link 'Power management'",
+        "step 13: Click on link 'Browse by Architecture'",
+        "step 14: Click on link 'responsiveHeader-back-button-arch'",
+        "step 15: Click on link 'Browse by Architecture'",
+        "step 16: Click on link 'Menu'",
+        "step 17: Click on link 'Products'",
+        "step 18: Click on link 'Power management'",
+        "step 19: Click on link 'Browse by Architecture'",
+        "step 20: Take full page screenshot as checkpoint"
+    ]
+}

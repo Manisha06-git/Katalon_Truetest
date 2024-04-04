@@ -1,0 +1,14 @@
+{
+    "steps": [
+        "step 1: Navigate to https://www-int.itg.ti.com/",
+        "step 2: Enter contact details, order parts, and provide return details",
+        "step 3: Upload files, submit form, and view draft information",
+        "step 4: Submit form with multiple upload descriptions",
+        "step 5: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showAnalogSummary.tsp'",
+        "step 6: Click on link 'Modify return' -> Navigate to page 'productreturns/docs/editReturn.tsp'",
+        "step 7: Click on link 'Upload files' -> Navigate to page 'productreturns/docs/showfileUpload.tsp'",
+        "step 8: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showAnalogSummary.tsp'",
+        "step 9: Click on link 'Modify return'",
+        "step 10: Take full page screenshot as checkpoint"
+    ]
+}

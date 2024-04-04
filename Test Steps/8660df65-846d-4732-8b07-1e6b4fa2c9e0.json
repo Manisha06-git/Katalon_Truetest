@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to https://www-int.itg.ti.com/productreturns/docs/createReturn.tsp",
+        "step 2: Click on link 'Product returns' -> Navigate to page 'productreturns/docs/productReturnLists'",
+        "step 3: Click on link  -> Navigate to page ''",
+        "step 4: Upload files and submit descriptions",
+        "step 5: Submit product returns and modify return",
+        "step 6: Upload files, select upload description, and submit",
+        "step 7: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showAnalogSummary.tsp'",
+        "step 8: Take full page screenshot as checkpoint"
+    ]
+}

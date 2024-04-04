@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to https://www-int.itg.ti.com/",
+        "step 2: Click on link 'My cart1'",
+        "step 3: Click on atomic 'headerSearchBox' -> Navigate to page 'sitesearch/en-us/docs/universalsearch.tsp'",
+        "step 4: Click on ti",
+        "step 5: Click on atomic  -> Navigate to page 'product/*'",
+        "step 6: Click on body",
+        "step 7: Click on body",
+        "step 8: Take full page screenshot as checkpoint"
+    ]
+}

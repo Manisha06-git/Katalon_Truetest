@@ -1,0 +1,26 @@
+{
+    "steps": [
+        "step 1: Navigate to https://www-int.itg.ti.com/productreturns/docs/createReturn.tsp",
+        "step 2: Click on input field 'contactState'",
+        "step 3: Enter input value in input field 'contactState'",
+        "step 4: Click on select 'contactCountryCode'",
+        "step 5: Enter input value in input field 'contactPhone'",
+        "step 6: Click on input field 'orderablePartNumber'",
+        "step 7: Enter input value in input field 'orderablePartNumber'",
+        "step 8: Click on list item",
+        "step 9: Click on label",
+        "step 10: Click on label",
+        "step 11: Click on input field 'purchaseType'",
+        "step 12: Click on label",
+        "step 13: Click on input field 'endCustchk'",
+        "step 14: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showReturnDetails.tsp'",
+        "step 15: Click on label",
+        "step 16: Click on input field 'reasonForReturn'",
+        "step 17: Click on select 'defectApplicationId'",
+        "step 18: Click on select 'defectPlaceId'",
+        "step 19: Click on select 'electricalSubType'",
+        "step 20: Enter input value in textarea 'provideDetailsForElectricalIssue'",
+        "step 21: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showPartTypeInfo.tsp'",
+        "step 22: Take full page screenshot as checkpoint"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to https://www-int.itg.ti.com/",
+        "step 2: Click on ti",
+        "step 3: Click on ti  -> Navigate to page 'myti-dashboard/docs/mytidashboard'",
+        "step 4: Click on link 'Payment methods' -> Navigate to page 'checkoutprofile/web/paymentMethods'",
+        "step 5: Click on link 'View application status'",
+        "step 6: Click on link 'View application status'",
+        "step 7: Click on link 'View application status' -> Navigate to page 'tisloc/web/status-utilization/en-us/view'",
+        "step 8: Take full page screenshot as checkpoint"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "steps": [
+        "step 1: Navigate to https://www-int.itg.ti.com/",
+        "step 2: Click on ti  -> Navigate to page 'myti-dashboard/docs/mytidashboard'",
+        "step 3: Click on link 'API keys and access' -> Navigate to page 'myti/docs/accessApi'",
+        "step 4: Click on span",
+        "step 5: Take full page screenshot as checkpoint"
+    ]
+}
