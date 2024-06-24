@@ -1,902 +1,216 @@
 Flow ID,Name,Description,Test Steps,Flow Priority
-3,Verify Successful Download of Quality Reliability and Packaging Information,"Navigate to the download page for quality, reliability, and packaging information. Select different language versions and verify the download options. Access the homepage and verify the availability of the downloaded content.","Step 1: Navigate to https://www-int.itg.ti.com/quality-reliability-packaging-download
-Step 2: Click on ti
-Step 3: Click on ti  -> Navigate to page 'quality-reliability-packaging-download/ja-jp'
-Step 4: Click on ti
-Step 5: Click on ti  -> Navigate to page 'quality-reliability-packaging-download/de-de'
-Step 6: Click on ti
-Step 7: Click on ti  -> Navigate to page 'quality-reliability-packaging-download/zh-tw'
-Step 8: Click on ti
-Step 9: Click on ti  -> Navigate to page ''
-Step 10: Click on link 'Power management'
-Step 11: Click on link 'Wireless connectivity'
-Step 12: Click on ti
-Step 13: Click on ti
-Step 14: Click on ti  -> Navigate to page 'de-de/homepage.html'
-Step 15: Click on link
-Step 16: Click on link 'Power Management'
-Step 17: Click on ti
-Step 18: Click on ti  -> Navigate to page ''
-Step 19: Click on link
-Step 20: Click on link 'Power management'
-Step 21: Take full page screenshot as checkpoint
-",High
-33,Verify Access and Status View of Ti Line of Credit,Navigate to the home page and access the Myti dashboard documentation. Proceed to the API keys and access page and verify the displayed information.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Click on ti
-Step 3: Click on ti  -> Navigate to page 'myti-dashboard/docs/mytidashboard'
-Step 4: Click on link 'TI line of credit status' -> Navigate to page 'tisloc/web/status-utilization/en-us/view'
-Step 5: Click on link 'View'
-Step 6: Click on span
-Step 7: Click on link 'View'
-Step 8: Take full page screenshot as checkpoint
-",High
-45,Verify Industrial Applications and Search Functionality,Navigate to the home page and access the industrial applications section. Proceed to the language selection and search functionality to verify the search results.,"Step 1: Navigate to https://www-int.itg.ti.com/de-de/homepage.html
-Step 2: Click on link
-Step 3: Click on link 'Power Management'
-Step 4: Click on link 'Menu'
-Step 5: Click on link 'Produkte'
-Step 6: Click on link 'Power Management'
-Step 7: Click on link 'Nach Architektur durchsuchen'
-Step 8: Take full page screenshot as checkpoint
-",High
-40,Verify Access to Company Information and Checkout Profiles,Navigate to the DeDe homepage and access the power management section. Browse through the menu options and verify the architecture search feature.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Click on ti  -> Navigate to page 'myti-dashboard/docs/mytidashboard'
-Step 3: Click on link 'API keys and access' -> Navigate to page 'myti/docs/accessApi'
-Step 4: Click on ti
-Step 5: Click on ti
-Step 6: Click on link 'ti-breadcrumb-section-0' -> Navigate to page ''
-Step 7: Click on ti  -> Navigate to page 'myti-dashboard/docs/mytidashboard'
-Step 8: Click on link 'Company information' -> Navigate to page 'myti/docs/cpAccount/view'
-Step 9: Click on link 'myTI dashboard' -> Navigate to page 'myti-dashboard/docs/mytidashboard'
-Step 10: Click on link 'Checkout profiles' -> Navigate to page 'checkoutprofile/web/checkoutprofiles'
-Step 11: Take full page screenshot as checkpoint
-",High
-37,Verify Address Addition and Credit Application Access,Navigate to the home page and add address and contact phone details. Access the credit application page and view the application details.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Access Ti dashboard and credit application
-	- Step 1: Click on ti
-	- Step 2: Click on ti  -> Navigate to page 'myti-dashboard/docs/mytidashboard'
-	- Step 3: Click on link 'TI line of credit status' -> Navigate to page 'tisloc/web/status-utilization/en-us/view'
-	- Step 4: Click on link 'Withdraw'
-	- Step 5: Click on ti  -> Navigate to page 'tisloc/web/credit-application/en-us/apply'
-	- Step 6: Click on div
-	- Step 7: Click on ti
-Step 3: Add address and contact phone
-	- Step 1: Click on ti
-	- Step 2: Click on ti
-	- Step 3: Click on link 'Add address'
-	- Step 4: Click on ti
-	- Step 5: Click on ti
-	- Step 6: Enter input value in ti
-	- Step 7: Enter input value in ti
-	- Step 8: Click on input field 'phoneTel'
-	- Step 9: Enter input value in input field 'phoneTel'
-Step 4: Click objects, input data, and interact with multiple objects
-	- Step 1: Click on ti
-	- Step 2: Click on ti
-	- Step 3: Click on ti
-	- Step 4: Click on ti
-	- Step 5: Enter input value in ti
-	- Step 6: Click on ti
-	- Step 7: Enter input value in ti
-	- Step 8: Click on ti
-	- Step 9: Enter input value in ti
-	- Step 10: Click on ti
-	- Step 11: Enter input value in ti
-	- Step 12: Click on ti
-	- Step 13: Enter input value in ti
-	- Step 14: Click on ti
-	- Step 15: Enter input value in ti
-	- Step 16: Click on ti
-	- Step 17: Click on ti
-	- Step 18: Click on div
-	- Step 19: Click on ti
-	- Step 20: Enter input value in ti
-	- Step 21: Click on ti
-	- Step 22: Enter input value in ti
-	- Step 23: Click on ti
-	- Step 24: Enter input value in ti
-	- Step 25: Click on ti
-	- Step 26: Click on div
-	- Step 27: Click on ti
-	- Step 28: Click on ti
-	- Step 29: Enter input value in ti
-	- Step 30: Click on ti
-	- Step 31: Enter input value in ti
-	- Step 32: Click on ti
-	- Step 33: Enter input value in ti
-	- Step 34: Enter input value in ti
-	- Step 35: Enter input value in ti
-	- Step 36: Enter input value in ti
-	- Step 37: Click on ti
-	- Step 38: Click on div
-	- Step 39: Click on ti
-	- Step 40: Click on ti
-	- Step 41: Enter input value in ti
-	- Step 42: Enter input value in ti
-	- Step 43: Enter input value in ti
-	- Step 44: Enter input value in ti
-	- Step 45: Enter input value in ti
-	- Step 46: Enter input value in ti
-	- Step 47: Click on ti
-	- Step 48: Enter input value in ti
-	- Step 49: Click on ti
-	- Step 50: Enter input value in ti
-	- Step 51: Click on ti
-	- Step 52: Enter input value in ti
-	- Step 53: Click on ti
-	- Step 54: Enter input value in ti
-Step 5: Click on ti
-Step 6: Click on ti
-Step 7: Enter input value in ti  -> Navigate to page ''
-Step 8: Access credit application and view details
-	- Step 1: Click on ti  -> Navigate to page 'tisloc/web/credit-application/en-us/form/saved'
-	- Step 2: Click on ti  -> Navigate to page 'tisloc/web/status-utilization/en-us/view'
-	- Step 3: Click on link 'View'
-	- Step 4: Click on span
-	- Step 5: Click on link 'View'
-Step 9: Take full page screenshot as checkpoint
-",High
-36,Verify Contact Details Entry and Form Submission Process,Navigate to the home page and enter contact details for order parts and returns. Upload files and submit the form with multiple descriptions. Proceed with the modification of return details.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Enter contact details, order parts, and provide return details
-	- Step 1: Click on input field 'contactState'
-	- Step 2: Enter input value in input field 'contactState'
-	- Step 3: Click on select 'contactCountryCode'
-	- Step 4: Enter input value in input field 'contactPhone'
-	- Step 5: Click on input field 'orderablePartNumber'
-	- Step 6: Enter input value in input field 'orderablePartNumber'
-	- Step 7: Click on list item
-	- Step 8: Click on label
-	- Step 9: Click on label
-	- Step 10: Click on input field 'purchaseType'
-	- Step 11: Click on label
-	- Step 12: Click on input field 'endCustchk'
-	- Step 13: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showReturnDetails.tsp'
-	- Step 14: Click on label
-	- Step 15: Click on input field 'reasonForReturn'
-	- Step 16: Click on select 'defectApplicationId'
-	- Step 17: Click on select 'defectPlaceId'
-	- Step 18: Click on select 'electricalSubType'
-	- Step 19: Enter input value in textarea 'provideDetailsForElectricalIssue'
-	- Step 20: Click on button 'Submit1'
-Step 3: Upload files, submit form, and view draft information
-	- Step 1: Click on link 'Upload files' -> Navigate to page 'productreturns/docs/showfileUpload.tsp'
-	- Step 2: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showAnalogSummary.tsp'
-	- Step 3: Click on link 'draftButton' -> Navigate to page 'productreturns/docs/showPartTypeInfo.tsp'
-	- Step 4: Click on label
-	- Step 5: Click on input field 'isPrgrmOrLowRfDevice1'
-	- Step 6: Click on input field 'temperature1'
-	- Step 7: Click on label
-	- Step 8: Click on label
-	- Step 9: Click on input field 'failPartsCondition1'
-	- Step 10: Click on label
-	- Step 11: Click on label
-	- Step 12: Click on input field 'boardFailPartSwap1'
-	- Step 13: Click on label
-	- Step 14: Click on link '1'
-	- Step 15: Enter input value in input field 'totalOrderedQty'
-	- Step 16: Click on div
-	- Step 17: Click on link '1'
-Step 4: Submit form with multiple upload descriptions
-	- Step 1: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showfileUpload.tsp'
-	- Step 2: Click on input field
-	- Step 3: Click on select 'Uploaddescription'
-	- Step 4: Click on select 'Uploaddescription'
-	- Step 5: Click on input field 'submit'
-Step 5: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showAnalogSummary.tsp'
-Step 6: Click on link 'Modify return' -> Navigate to page 'productreturns/docs/editReturn.tsp'
-Step 7: Click on link 'Upload files' -> Navigate to page 'productreturns/docs/showfileUpload.tsp'
-Step 8: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showAnalogSummary.tsp'
-Step 9: Click on link 'Modify return'
-Step 10: Take full page screenshot as checkpoint
-",High
-35,Verify Product Returns Submission and File Upload Process,Navigate to the home page and access the product returns section. Proceed to the product return lists page and upload files with descriptions. Verify the submission process.,"Step 1: Navigate to https://www-int.itg.ti.com/productreturns/docs/createReturn.tsp
-Step 2: Click on link 'Product returns' -> Navigate to page 'productreturns/docs/productReturnLists'
-Step 3: Click on link  -> Navigate to page ''
-Step 4: Upload files and submit descriptions
-	- Step 1: Click on link 'Upload files' -> Navigate to page 'productreturns/docs/showfileUpload.tsp'
-	- Step 2: Click on input field
-	- Step 3: Click on select 'Uploaddescription'
-	- Step 4: Click on input field 'submit'
-	- Step 5: Click on input field
-	- Step 6: Click on input field
-	- Step 7: Click on select 'Uploaddescription'
-	- Step 8: Click on input field 'submit'
-Step 5: Submit product returns and modify return
-	- Step 1: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showAnalogSummary.tsp'
-	- Step 2: Click on link 'draftButton' -> Navigate to page 'productreturns/docs/showReturnDetails.tsp'
-	- Step 3: Click on link 'Upload files' -> Navigate to page 'productreturns/docs/showfileUpload.tsp'
-	- Step 4: Click on link 'Go to summary' -> Navigate to page 'productreturns/docs/showAnalogSummary.tsp'
-	- Step 5: Click on link 'Modify return'
-Step 6: Upload files, select upload description, and submit
-	- Step 1: Click on link 'Upload files' -> Navigate to page 'productreturns/docs/showfileUpload.tsp'
-	- Step 2: Click on input field
-	- Step 3: Click on select 'Uploaddescription'
-	- Step 4: Click on input field 'submit'
-	- Step 5: Click on input field
-	- Step 6: Click on input field
-	- Step 7: Click on select 'Uploaddescription'
-	- Step 8: Click on input field 'submit'
-Step 7: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showAnalogSummary.tsp'
-Step 8: Take full page screenshot as checkpoint
-",High
-34,Verify Orderable Part Returns and File Upload Process,Navigate to the product returns page and initiate the return process. Upload files and submit descriptions. Proceed with the submission and modification of return details.,"Step 1: Navigate to https://www-int.itg.ti.com/productreturns/docs/createReturn.tsp
-Step 2: Click on label
-Step 3: Click on input field 'purchaseType'
-Step 4: Click on input field 'contactState'
-Step 5: Enter input value in input field 'contactState'
-Step 6: Click on select 'contactCountryCode'
-Step 7: Enter input value in input field 'contactPhone'
-Step 8: Click on label
-Step 9: Click on label
-Step 10: Click on button 'Submit1'
-Step 11: Click on input field 'orderablePartNumber'
-Step 12: Enter input value in input field 'orderablePartNumber'
-Step 13: Click on list item
-Step 14: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showReturnDetails.tsp'
-Step 15: Click on link 'Upload files' -> Navigate to page 'productreturns/docs/showfileUpload.tsp'
-Step 16: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showAnalogSummary.tsp'
-Step 17: Click on link 'Modify return'
-Step 18: Click on div
-Step 19: Click on div
-Step 20: Take full page screenshot as checkpoint
-",High
-38,Verify Label Input and Return Details Submission,Navigate to the home page and click labels to input data and select options. Proceed with the submission of return details and provide defect information.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Enter contact details, order parts, and provide return details
-	- Step 1: Click on input field 'contactState'
-	- Step 2: Enter input value in input field 'contactState'
-	- Step 3: Click on select 'contactCountryCode'
-	- Step 4: Enter input value in input field 'contactPhone'
-	- Step 5: Click on input field 'orderablePartNumber'
-	- Step 6: Enter input value in input field 'orderablePartNumber'
-	- Step 7: Click on list item
-	- Step 8: Click on label
-	- Step 9: Click on label
-	- Step 10: Click on input field 'purchaseType'
-	- Step 11: Click on label
-	- Step 12: Click on input field 'endCustchk'
-	- Step 13: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showReturnDetails.tsp'
-	- Step 14: Click on label
-	- Step 15: Click on input field 'reasonForReturn'
-	- Step 16: Click on select 'defectApplicationId'
-	- Step 17: Click on select 'defectPlaceId'
-	- Step 18: Click on select 'electricalSubType'
-	- Step 19: Enter input value in textarea 'provideDetailsForElectricalIssue'
-	- Step 20: Click on button 'Submit1'
-Step 3: Click labels, input data, and select options
-	- Step 1: Click on label
-	- Step 2: Click on label
-	- Step 3: Click on label
-	- Step 4: Click on input field 'aplctnChngdRecently1'
-	- Step 5: Click on label
-	- Step 6: Click on input field 'isPrgrmOrLowRfDevice1'
-	- Step 7: Click on input field 'temperature1'
-	- Step 8: Click on label
-	- Step 9: Click on label
-	- Step 10: Click on input field 'failPartsCondition1'
-	- Step 11: Click on label
-	- Step 12: Click on label
-	- Step 13: Click on input field 'boardFailPartSwap1'
-	- Step 14: Click on label
-	- Step 15: Click on link '1'
-	- Step 16: Enter input value in input field 'totalOrderedQty'
-	- Step 17: Click on div
-	- Step 18: Click on link '1'
-Step 4: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showfileUpload.tsp'
-Step 5: Click on list
-Step 6: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showAnalogSummary.tsp'
-Step 7: Click on link 'Modify return' -> Navigate to page 'productreturns/docs/editReturn.tsp'
-Step 8: Click on link 'Part details' -> Navigate to page ''
-Step 9: View return details, select defect details, and provide information
-	- Step 1: Click on link 'Return details' -> Navigate to page 'productreturns/docs/showReturnDetails.tsp'
-	- Step 2: Click on label
-	- Step 3: Click on input field 'reasonForReturn'
-	- Step 4: Click on select 'defectApplicationId'
-	- Step 5: Click on select 'defectPlaceId'
-	- Step 6: Click on select 'electricalSubType'
-	- Step 7: Enter input value in textarea 'provideDetailsForElectricalIssue'
-	- Step 8: Click on button 'Submit1'
-Step 10: Click on link 'Return details' -> Navigate to page 'productreturns/docs/showReturnDetails.tsp'
-Step 11: Click on button 'Submit1' -> Navigate to page ''
-Step 12: View return details, select defect details, and provide information
-	- Step 1: Click on link 'Return details' -> Navigate to page 'productreturns/docs/showReturnDetails.tsp'
-	- Step 2: Click on label
-	- Step 3: Click on input field 'reasonForReturn'
-	- Step 4: Click on select 'defectApplicationId'
-	- Step 5: Click on select 'defectPlaceId'
-	- Step 6: Click on select 'electricalSubType'
-	- Step 7: Enter input value in textarea 'provideDetailsForElectricalIssue'
-	- Step 8: Click on button 'Submit1'
-Step 13: Upload files, view return details, and provide electrical issue details
-	- Step 1: Click on link 'Upload files' -> Navigate to page 'productreturns/docs/showfileUpload.tsp'
-	- Step 2: Click on link 'Return details' -> Navigate to page 'productreturns/docs/showReturnDetails.tsp'
-	- Step 3: Click on link 'Upload files' -> Navigate to page 'productreturns/docs/showfileUpload.tsp'
-	- Step 4: Click on ti
-	- Step 5: Click on ti
-	- Step 6: Click on ti
-	- Step 7: Click on ti
-	- Step 8: Click on link 'Return details' -> Navigate to page 'productreturns/docs/showReturnDetails.tsp'
-	- Step 9: Click on label
-	- Step 10: Click on input field 'reasonForReturn'
-	- Step 11: Click on select 'defectApplicationId'
-	- Step 12: Click on select 'defectPlaceId'
-	- Step 13: Click on select 'electricalSubType'
-	- Step 14: Enter input value in textarea 'provideDetailsForElectricalIssue'
-	- Step 15: Click on button 'Submit1'
-Step 14: Click on link 'Upload files'
-Step 15: Click on link 'modalBtnText' -> Navigate to page 'productreturns/docs/showfileUpload.tsp'
-Step 16: Click on select 'Uploaddescription'
-Step 17: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showAnalogSummary.tsp'
-Step 18: Click on link 'Modify return' -> Navigate to page 'productreturns/docs/editReturn.tsp'
-Step 19: Click on link 'Upload files' -> Navigate to page 'productreturns/docs/showfileUpload.tsp'
-Step 20: Click on select 'Uploaddescription' -> Navigate to page ''
-Step 21: Submit form, modify return, and upload files
-	- Step 1: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showAnalogSummary.tsp'
-	- Step 2: Click on link 'Modify return' -> Navigate to page 'productreturns/docs/showfileUpload.tsp'
-	- Step 3: Click on input field
-	- Step 4: Click on select 'Uploaddescription'
-	- Step 5: Click on input field 'submit'
-Step 22: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showAnalogSummary.tsp'
-Step 23: Take full page screenshot as checkpoint
-",High
-27,Verify Tax IDs Management and Dashboard Access,Navigate to the home page and explore tax ID management options. Proceed to the Myti dashboard and tax ID section to verify the management features.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Explore tax IDs and manage tax countries
-	- Step 1: Click on ti  -> Navigate to page 'myti-dashboard/docs/mytidashboard'
-	- Step 2: Click on link 'Tax IDs' -> Navigate to page 'checkoutprofile/web/tax'
-	- Step 3: Click on span
-	- Step 4: Click on span
-	- Step 5: Click on span  -> Navigate to page 'checkoutprofile/web/tax/add'
-	- Step 6: Click on select 'taxCountryIsoCode'
-	- Step 7: Click on select 'taxCountryIsoCode'
-	- Step 8: Click on select 'taxCountryIsoCode'
-Step 3: Navigate Myti dashboard and tax IDs
-	- Step 1: Click on link 'myTI dashboard'
-	- Step 2: Click on link 'myTI dashboard'
-	- Step 3: Click on link 'myTI dashboard' -> Navigate to page 'myti-dashboard/docs/mytidashboard'
-	- Step 4: Click on link 'Tax IDs' -> Navigate to page 'checkoutprofile/web/tax'
-	- Step 5: Click on span
-	- Step 6: Click on span
-	- Step 7: Click on span
-Step 4: Take full page screenshot as checkpoint
-",High
-10,Verify Design Development and Partner Directory Access,Navigate to the home page and explore the design development and partner directory sections. Access the partner directory page and verify the displayed content.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Click on link 'Applications'
-Step 3: Click on link 'Design & development'
-Step 4: Click on link 'Partner directory' -> Navigate to page 'design-development/partner-directory.html'
-Step 5: Click on ti  -> Navigate to page ''
-Step 6: Explore design development and partner directory
-	- Step 1: Click on atomic
-	- Step 2: Click on atomic
-	- Step 3: Click on atomic
-	- Step 4: Click on link 'Design & development'
-	- Step 5: Click on link 'Partner directory' -> Navigate to page 'design-development/partner-directory.html'
-	- Step 6: Click on ti
-Step 7: Take full page screenshot as checkpoint
-",High
-26,Verify Submission and Details Display in Product Returns Section,Navigate to the product returns page and submit return details. Access the return details page and verify the displayed information.,"Step 1: Navigate to https://www-int.itg.ti.com/productreturns/docs/showReturnDetails.tsp
-Step 2: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showPartTypeInfo.tsp'
-Step 3: Click on link 'Return details' -> Navigate to page 'productreturns/docs/showReturnDetails.tsp'
-Step 4: Click on button 'Submit1'
-Step 5: Click on link 'Part details'
-Step 6: Click on link 'modalBtnText' -> Navigate to page 'productreturns/docs/showPartTypeInfo.tsp'
-Step 7: Take full page screenshot as checkpoint
-",High
-6,Verify Access and Navigation to Myti Dashboard Documentation,Navigate to the home page and access the BOM quick link. Proceed to the Myti dashboard documentation page and verify the displayed information.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Click on link 'quicklink bom'
-Step 3: Click on ti  -> Navigate to page 'myti-dashboard/docs/mytidashboard'
-Step 4: Take full page screenshot as checkpoint
-",High
-4,Verify Navigation and Architecture Options in Product Interface,Navigate to the home page and explore the product menu and interface options. Browse through power management and architecture sections. Access the architecture menu and verify the displayed options.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Click on link 'Menu'
-Step 3: Click on link 'Products'
-Step 4: Click on link 'Interface'
-Step 5: Click on link 'responsiveHeader-back-button'
-Step 6: Browse power management and architecture
-	- Step 1: Click on link 'Power management'
-	- Step 2: Click on link 'responsiveHeader-back-button'
-	- Step 3: Click on link 'Power management'
-	- Step 4: Click on link 'Browse by Architecture'
-	- Step 5: Click on link 'responsiveHeader-back-button-arch'
-Step 7: Click on link 'responsiveHeader-back-button'
-Step 8: Browse power management and architecture
-	- Step 1: Click on link 'Power management'
-	- Step 2: Click on link 'responsiveHeader-back-button'
-	- Step 3: Click on link 'Power management'
-	- Step 4: Click on link 'Browse by Architecture'
-	- Step 5: Click on link 'responsiveHeader-back-button-arch'
-Step 9: Click on link 'Browse by Architecture'
-Step 10: Click on div 'responsiveHeader-overlay'
-Step 11: Click on link 'Menu'
-Step 12: Click on link 'Power management'
-Step 13: Click on link 'Browse by Architecture'
-Step 14: Click on link 'responsiveHeader-back-button-arch'
-Step 15: Click on link 'Browse by Architecture'
-Step 16: Click on link 'Menu'
-Step 17: Click on link 'Products'
-Step 18: Click on link 'Power management'
-Step 19: Click on link 'Browse by Architecture'
-Step 20: Take full page screenshot as checkpoint
-",High
-24,Verify Access and Submission of Payment Methods and Terms,Navigate to the home page and access the payment methods and terms section. Proceed to the credit application page and verify the submission process.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Access payment methods and terms
-	- Step 1: Click on ti
-	- Step 2: Click on ti  -> Navigate to page 'myti-dashboard/docs/mytidashboard'
-	- Step 3: Click on link 'Payment methods' -> Navigate to page 'checkoutprofile/web/paymentMethods'
-	- Step 4: Click on span
-	- Step 5: Click on span
-	- Step 6: Click on span  -> Navigate to page 'myti-dashboard/docs/superadmin/termsandconditions'
-	- Step 7: Click on ti
-Step 3: Click on ti 'acceptbtn' -> Navigate to page 'tisloc/web/credit-application/en-us/apply'
-Step 4: Take full page screenshot as checkpoint
-",High
-25,Verify Credit Application Submission and Status View,Navigate to the credit application status page and view the application details. Proceed with the withdrawal process and verify the credit application submission.,"Step 1: Navigate to https://www-int.itg.ti.com/tisloc/web/status-utilization/en-us/view
-Step 2: Click on link 'View'
-Step 3: Click on div
-Step 4: Click on div
-Step 5: Click on link 'Withdraw'
-Step 6: Click on ti  -> Navigate to page 'tisloc/web/credit-application/en-us/apply'
-Step 7: Take full page screenshot as checkpoint
-",High
-9,Verify Order Placement and Product Details View,Navigate to the home page and access the shopping cart. Search for products and proceed with the order placement process. Verify the displayed product details.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Click on link 'Menu'
-Step 3: Click on link 'Applications'
-Step 4: Click on link 'Industrial'
-Step 5: Click on list  -> Navigate to page 'applications/industrial/building-automation/overview.html'
-Step 6: Click on link 'Language'
-Step 7: Click on ti
-Step 8: Click on link 'Search'
-Step 9: Click on atomic 'headerSearchBox' -> Navigate to page 'sitesearch/en-us/docs/universalsearch.tsp'
-Step 10: Take full page screenshot as checkpoint
-",High
-13,Verify Tax Profile Setup and Configuration,Navigate to the tax profile page and configure the tax country codes. Select the invoice type options and verify the tax profile setup.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Click on link 'My cart1'
-Step 3: Click on atomic 'headerSearchBox' -> Navigate to page 'sitesearch/en-us/docs/universalsearch.tsp'
-Step 4: Click on ti
-Step 5: Click on atomic  -> Navigate to page 'product/*'
-Step 6: Click on atomic 'headerSearchBox' -> Navigate to page 'sitesearch/en-us/docs/universalsearch.tsp'
-Step 7: Click on ti
-Step 8: Click on atomic  -> Navigate to page 'product/*'
-Step 9: Take full page screenshot as checkpoint
-",High
-22,Flow 20,,"Step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/tax
-Step 2: Click on span
-Step 3: Click on span
-Step 4: Click on span  -> Navigate to page 'checkoutprofile/web/tax/add'
-Step 5: Click on select 'taxCountryIsoCode'
-Step 6: Click on select 'taxCountryIsoCode'
-Step 7: Click on select 'taxCountryIsoCode'
-Step 8: Click on select 'taxCountryIsoCode'
-Step 9: Click on ti 'generalDigitalInvoiceRadio'
-Step 10: Click on ti 'generalDigitalInvoiceRadio'
-Step 11: Click on ti 'specialDigitalInvoiceRadio'
-Step 12: Click on ti 'specialDigitalInvoiceRadio'
-Step 13: Click on ti
-Step 14: Click on ti
-Step 15: Click on select 'taxCountryIsoCode'
-Step 16: Click on select 'taxCountryIsoCode'
-Step 17: Click on select 'taxCountryIsoCode'
-Step 18: Click on select 'taxCountryIsoCode'
-Step 19: Take full page screenshot as checkpoint
-",High
-23,Verify Successful Withdrawal Process from Credit Application Page,Navigate to the withdrawal page from the credit application page. Click on the withdrawal link and proceed with the withdrawal process. Verify that the credit application withdrawal is successful.,"Step 1: Navigate to https://www-int.itg.ti.com/tisloc/web/status-utilization/en-us/view
-Step 2: Click on div
-Step 3: Click on link 'Withdraw'
-Step 4: Click on ti  -> Navigate to page 'tisloc/web/credit-application/en-us/apply'
+3,Navigate and Verify Store Checkout Process,"Navigate to the store checkout page, add items to the cart, and verify the return to the home page.","Step 1: Navigate to https://www-int.itg.ti.com/store/en-us/samples-checkout
+Step 2: Click on link cart -> Navigate to page 'store/en-us/samples-cart'
+Step 3: Click on ti addToSamplesCart
+Step 4: Click on header roleHeading -> Navigate to page ''
 Step 5: Take full page screenshot as checkpoint
 ",High
-32,Verify Order Parts and Return Details Submission Process,"Navigate to the product returns page and provide contact, order, and return details. Submit the required information and verify the successful submission of order parts and return details.","Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Enter contact details, order parts, and provide return details
-	- Step 1: Click on input field 'contactState'
-	- Step 2: Enter input value in input field 'contactState'
-	- Step 3: Click on select 'contactCountryCode'
-	- Step 4: Enter input value in input field 'contactPhone'
-	- Step 5: Click on input field 'orderablePartNumber'
-	- Step 6: Enter input value in input field 'orderablePartNumber'
-	- Step 7: Click on list item
-	- Step 8: Click on label
-	- Step 9: Click on label
-	- Step 10: Click on input field 'purchaseType'
-	- Step 11: Click on label
-	- Step 12: Click on input field 'endCustchk'
-	- Step 13: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showReturnDetails.tsp'
-	- Step 14: Click on label
-	- Step 15: Click on input field 'reasonForReturn'
-	- Step 16: Click on select 'defectApplicationId'
-	- Step 17: Click on select 'defectPlaceId'
-	- Step 18: Click on select 'electricalSubType'
-	- Step 19: Enter input value in textarea 'provideDetailsForElectricalIssue'
-	- Step 20: Click on button 'Submit1'
-Step 3: Click on label
-Step 4: Click on input field 'isPrgrmOrLowRfDevice1'
-Step 5: Click on input field 'temperature1'
-Step 6: Click on label
-Step 7: Click on label
-Step 8: Click on input field 'failPartsCondition1'
-Step 9: Click on label
-Step 10: Click on label
-Step 11: Click on input field 'boardFailPartSwap1'
-Step 12: Click on label
-Step 13: Click on link '1'
-Step 14: Enter input value in input field 'totalOrderedQty'
-Step 15: Click on div
-Step 16: Click on link '1'
-Step 17: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showfileUpload.tsp'
-Step 18: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showAnalogSummary.tsp'
-Step 19: Take full page screenshot as checkpoint
-",High
-44,Verify Password Update from API Keys Access Page,Navigate to the API keys access page from the home page. Update the password by clicking on the settings form submit button. Verify that the password update is successful.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Access API keys and update password
-	- Step 1: Click on ti  -> Navigate to page 'myti-dashboard/docs/mytidashboard'
-	- Step 2: Click on link 'API keys and access' -> Navigate to page 'myti/docs/accessApi'
-	- Step 3: Click on span
-	- Step 4: Click on input field 'password'
-	- Step 5: Click on input field 'password'
-	- Step 6: Enter input value in input field 'password'
-Step 3: Click on ti 'settingsFormSubmitBtn'
-Step 4: Take full page screenshot as checkpoint
-",High
-50,Verify Addition of Checkout Profiles from Organization s Team Project,Navigate to the checkout profiles page from the organization's team project dashboard. Add a new checkout profile and verify the successful addition of the checkout profile.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Click on ti
-Step 3: Click on ti  -> Navigate to page 'myti-dashboard/docs/mytidashboard'
-Step 4: Click on link 'Checkout profiles' -> Navigate to page 'checkoutprofile/web/checkoutprofiles'
-Step 5: Click on span
-Step 6: Click on span
-Step 7: Click on span  -> Navigate to page 'checkoutprofile/web/checkoutprofiles/add'
-Step 8: Take full page screenshot as checkpoint
-",High
-51,Verify Navigation to Homepage in Japanese,Navigate to the Japanese homepage and access the product and menu sections. Click on various links related to products and verify the successful navigation to the Japanese homepage.,"Step 1: Navigate to https://www-int.itg.ti.com/ja-jp/homepage.html
-Step 2: Click on link
-Step 3: Click on link 'RF とマイクロ波'
-Step 4: Click on link '電源IC'
-Step 5: Click on link '電源IC'
-Step 6: Click on link 'Menu'
-Step 7: Click on link '製品'
-Step 8: Click on link '電源IC'
-Step 9: Take full page screenshot as checkpoint
-",High
-12,Verify Multiple Product Searches and View Options,Navigate to the home page and access the shopping cart. Search for products and view the product details. Verify the displayed product information.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Click on link 'My cart1'
-Step 3: Click on atomic 'headerSearchBox' -> Navigate to page 'sitesearch/en-us/docs/universalsearch.tsp'
-Step 4: Click on ti
-Step 5: Click on atomic  -> Navigate to page 'product/*'
-Step 6: Click on link 'Order now'
-Step 7: Click on ti
-Step 8: Click on ti
-Step 9: Click on ti
-Step 10: Click on ti
-Step 11: Click on ti
-Step 12: Click on ti
-Step 13: Click on ti
-Step 14: Click on link 'Order now'
-Step 15: Take full page screenshot as checkpoint
-",High
-31,Verify Successful Return Details Submission Process,Navigate to the return creation page and provide contact and order details. Submit the required information and upload files. Verify the successful submission of return details.,"Step 1: Navigate to https://www-int.itg.ti.com/productreturns/docs/createReturn.tsp
-Step 2: Click on input field 'contactState'
-Step 3: Enter input value in input field 'contactState'
-Step 4: Click on select 'contactCountryCode'
-Step 5: Enter input value in input field 'contactPhone'
-Step 6: Click on input field 'orderablePartNumber'
-Step 7: Enter input value in input field 'orderablePartNumber'
-Step 8: Click on list item
-Step 9: Click on label
-Step 10: Click on label
-Step 11: Click on input field 'purchaseType'
-Step 12: Click on label
-Step 13: Click on input field 'endCustchk'
-Step 14: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showReturnDetails.tsp'
-Step 15: Click on link 'Upload files' -> Navigate to page 'productreturns/docs/showfileUpload.tsp'
-Step 16: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showAnalogSummary.tsp'
-Step 17: Click on ti
-Step 18: Take full page screenshot as checkpoint
-",High
-20,Verify Credit Application Page Submission Process,Navigate to the credit application page and input required data. Proceed with the submission process and verify the successful submission of the credit application.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Click on ti
-Step 3: Click on ti  -> Navigate to page 'myti-dashboard/docs/mytidashboard'
-Step 4: Click on link 'Payment methods' -> Navigate to page 'checkoutprofile/web/paymentMethods'
-Step 5: Click on span
-Step 6: Click on span
-Step 7: Click on span  -> Navigate to page 'tisloc/web/credit-application/en-us/apply'
-Step 8: Take full page screenshot as checkpoint
-",High
-21,Verify Addition of Tax IDs in Payment Methods Page,Navigate to the payment methods page and add tax IDs. Verify the successful addition of tax IDs in the payment methods section.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Click on ti
-Step 3: Click on ti  -> Navigate to page 'myti-dashboard/docs/mytidashboard'
-Step 4: Click on link 'Tax IDs' -> Navigate to page 'checkoutprofile/web/tax'
-Step 5: Click on span
-Step 6: Click on span
-Step 7: Click on span  -> Navigate to page 'checkoutprofile/web/tax/add'
-Step 8: Take full page screenshot as checkpoint
-",High
-16,Verify Modification of Return Details,Navigate to the return details page and modify the return information. Click on the modify return link and verify the successful modification of return details.,"Step 1: Navigate to https://www-int.itg.ti.com/productreturns/docs/showAnalogSummary.tsp
-Step 2: Click on link 'Modify return' -> Navigate to page 'productreturns/docs/editReturn.tsp'
-Step 3: Click on link 'Return details' -> Navigate to page 'productreturns/docs/showReturnDetails.tsp'
-Step 4: Take full page screenshot as checkpoint
-",High
-30,Verify Application Status View from Payment Methods Page,Navigate to the payment methods page and view the application status. Click on the view application status link and verify the successful viewing of the application status.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Click on ti
-Step 3: Click on ti  -> Navigate to page 'myti-dashboard/docs/mytidashboard'
-Step 4: Click on link 'Payment methods' -> Navigate to page 'checkoutprofile/web/paymentMethods'
-Step 5: Click on link 'View application status'
-Step 6: Click on link 'View application status'
-Step 7: Click on link 'View application status' -> Navigate to page 'tisloc/web/status-utilization/en-us/view'
-Step 8: Take full page screenshot as checkpoint
-",High
-28,Verify Successful Submission of Credit Application Form,Navigate to the credit application page and input required data. Proceed with form submission and verify the successful submission of the credit application form.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Click objects, input data, and proceed with multiple interactions
-	- Step 1: Click on ti
-	- Step 2: Click on ti
-	- Step 3: Click on ti
-	- Step 4: Click on ti
-	- Step 5: Enter input value in ti
-	- Step 6: Click on ti
-	- Step 7: Enter input value in ti
-	- Step 8: Click on ti
-	- Step 9: Enter input value in ti
-	- Step 10: Click on ti
-	- Step 11: Enter input value in ti
-	- Step 12: Click on ti
-	- Step 13: Enter input value in ti
-	- Step 14: Click on ti
-	- Step 15: Enter input value in ti
-	- Step 16: Click on ti
-	- Step 17: Click on ti
-	- Step 18: Click on div
-	- Step 19: Click on ti
-	- Step 20: Enter input value in ti
-	- Step 21: Click on ti
-	- Step 22: Enter input value in ti
-	- Step 23: Click on ti
-	- Step 24: Enter input value in ti
-	- Step 25: Click on ti
-	- Step 26: Click on div
-	- Step 27: Click on ti
-	- Step 28: Click on ti
-	- Step 29: Enter input value in ti
-	- Step 30: Click on ti
-	- Step 31: Enter input value in ti
-	- Step 32: Click on ti
-	- Step 33: Enter input value in ti
-	- Step 34: Enter input value in ti
-	- Step 35: Enter input value in ti
-	- Step 36: Enter input value in ti
-	- Step 37: Click on ti
-	- Step 38: Click on div
-	- Step 39: Click on ti
-	- Step 40: Click on ti
-	- Step 41: Enter input value in ti
-	- Step 42: Enter input value in ti
-	- Step 43: Enter input value in ti
-	- Step 44: Enter input value in ti
-	- Step 45: Enter input value in ti
-	- Step 46: Enter input value in ti
-Step 3: Click on ti
-Step 4: Click on ti
-Step 5: Enter input value in ti
-Step 6: Click on ti  -> Navigate to page 'tisloc/web/credit-application/en-us/form/submit'
-Step 7: Click on ti  -> Navigate to page 'tisloc/web/status-utilization/en-us/view'
-Step 8: Take full page screenshot as checkpoint
-",High
-29,Verify Successful Submission of File Uploads for Return Details,Navigate to the return creation page and provide contact and order details. Upload files and submit descriptions. Verify the successful submission of file uploads for return details.,"Step 1: Navigate to https://www-int.itg.ti.com/productreturns/docs/createReturn.tsp
-Step 2: Click on input field 'contactState'
-Step 3: Enter input value in input field 'contactState'
-Step 4: Click on select 'contactCountryCode'
-Step 5: Enter input value in input field 'contactPhone'
-Step 6: Click on input field 'orderablePartNumber'
-Step 7: Enter input value in input field 'orderablePartNumber'
-Step 8: Click on list item
-Step 9: Click on label
-Step 10: Click on label
-Step 11: Click on input field 'purchaseType'
-Step 12: Click on label
-Step 13: Click on input field 'endCustchk'
-Step 14: Click on button 'Submit1' -> Navigate to page ''
-Step 15: Upload files and submit descriptions
-	- Step 1: Click on link 'Upload files' -> Navigate to page 'productreturns/docs/showfileUpload.tsp'
-	- Step 2: Click on input field
-	- Step 3: Click on select 'Uploaddescription'
-	- Step 4: Click on input field 'submit'
-	- Step 5: Click on input field
-	- Step 6: Click on input field
-	- Step 7: Click on select 'Uploaddescription'
-	- Step 8: Click on input field 'submit'
-Step 16: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showAnalogSummary.tsp'
-Step 17: Take full page screenshot as checkpoint
-",High
-19,Verify Credit Application Page Submission Process,Navigate to the credit application page and proceed with the application process. Verify the successful submission of the credit application.,"Step 1: Navigate to https://www-int.itg.ti.com/tisloc/web/status-utilization/en-us/view
-Step 2: Click on link 'Withdraw'
-Step 3: Click on ti  -> Navigate to page 'tisloc/web/credit-application/en-us/apply'
-Step 4: Take full page screenshot as checkpoint
-",High
-15,Verify Successful Submission of File Uploads for Return Details,Navigate to the return creation page and provide contact and order details. Upload files and submit descriptions. Verify the successful submission of file uploads for return details.,"Step 1: Navigate to https://www-int.itg.ti.com/productreturns/docs/createReturn.tsp
-Step 2: Click on input field 'contactState'
-Step 3: Enter input value in input field 'contactState'
-Step 4: Click on select 'contactCountryCode'
-Step 5: Enter input value in input field 'contactPhone'
-Step 6: Click on input field 'orderablePartNumber'
-Step 7: Enter input value in input field 'orderablePartNumber'
-Step 8: Click on list item
-Step 9: Click on label
-Step 10: Click on label
-Step 11: Click on input field 'purchaseType'
-Step 12: Click on label
-Step 13: Click on input field 'endCustchk'
-Step 14: Click on button 'Submit1' -> Navigate to page ''
-Step 15: Upload files and submit descriptions
-	- Step 1: Click on link 'Upload files' -> Navigate to page 'productreturns/docs/showfileUpload.tsp'
-	- Step 2: Click on input field
-	- Step 3: Click on select 'Uploaddescription'
-	- Step 4: Click on input field 'submit'
-	- Step 5: Click on input field
-	- Step 6: Click on input field
-	- Step 7: Click on select 'Uploaddescription'
-	- Step 8: Click on input field 'submit'
-Step 16: Take full page screenshot as checkpoint
-",High
-11,Verify Product Search and Selection Process,Navigate to the home page and search for products. Select a product from the search results and verify the successful selection of the product.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Click on link 'My cart1'
-Step 3: Click on atomic 'headerSearchBox' -> Navigate to page 'sitesearch/en-us/docs/universalsearch.tsp'
-Step 4: Click on ti
-Step 5: Click on atomic  -> Navigate to page 'product/*'
-Step 6: Click on body
-Step 7: Click on body
-Step 8: Take full page screenshot as checkpoint
-",High
-14,Verify Successful Upload of Files for Return Details,Navigate to the return details page and upload files. Verify the successful upload of files for return details submission.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Enter contact details, order parts, and provide return details
-	- Step 1: Click on input field 'contactState'
-	- Step 2: Enter input value in input field 'contactState'
-	- Step 3: Click on select 'contactCountryCode'
-	- Step 4: Enter input value in input field 'contactPhone'
-	- Step 5: Click on input field 'orderablePartNumber'
-	- Step 6: Enter input value in input field 'orderablePartNumber'
-	- Step 7: Click on list item
-	- Step 8: Click on label
-	- Step 9: Click on label
-	- Step 10: Click on input field 'purchaseType'
-	- Step 11: Click on label
-	- Step 12: Click on input field 'endCustchk'
-	- Step 13: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showReturnDetails.tsp'
-	- Step 14: Click on label
-	- Step 15: Click on input field 'reasonForReturn'
-	- Step 16: Click on select 'defectApplicationId'
-	- Step 17: Click on select 'defectPlaceId'
-	- Step 18: Click on select 'electricalSubType'
-	- Step 19: Enter input value in textarea 'provideDetailsForElectricalIssue'
-	- Step 20: Click on button 'Submit1'
-Step 3: Click on link 'Upload files' -> Navigate to page 'productreturns/docs/showfileUpload.tsp'
-Step 4: Take full page screenshot as checkpoint
-",High
-49,Verify Product Details on Amplifier Circuit Op Amps Page,Navigate to the amplifier circuit op-amps page and view product details. Click on buttons and labels to access product information and verify the displayed product details.,"Step 1: Navigate to https://www-int.itg.ti.com/amplifier-circuit/op-amps/precision/products.html
-Step 2: Click on button
-Step 3: Click on label
-Step 4: Click on input field
-Step 5: Take full page screenshot as checkpoint
-",High
-47,Verify Navigation to Japanese Homepage with Specific Categories,Navigate to the Japanese homepage and access specific categories. Click on links related to categories and verify the successful navigation to the Japanese homepage.,"Step 1: Navigate to https://www-int.itg.ti.com/ja-jp/homepage.html
-Step 2: Click on link
-Step 3: Click on link 'ワイヤレス・コネクティビティ'
-Step 4: Click on link 'センサ'
-Step 5: Take full page screenshot as checkpoint
-",High
-48,Verify Navigation to Korean Homepage with Specific Categories,Navigate to the Korean homepage and access specific categories. Click on links related to categories and verify the successful navigation to the Korean homepage.,"Step 1: Navigate to https://www-int.itg.ti.com/ko-kr/homepage.html
-Step 2: Click on link
-Step 3: Click on link '전원 관리'
-Step 4: Click on link '메뉴'
-Step 5: Click on link '전원 관리'
-Step 6: Take full page screenshot as checkpoint
-",High
-43,Verify Navigation to German Homepage with Power Management Section,Navigate to the German homepage and access the power management section. Click on menu links related to products and power management. Verify the successful navigation to the German homepage.,"Step 1: Navigate to https://www-int.itg.ti.com/de-de/homepage.html
-Step 2: Click on link 'Menu'
-Step 3: Click on link 'Produkte'
-Step 4: Click on link 'Power Management'
-Step 5: Take full page screenshot as checkpoint
-",High
-18,Verify Product Returns Documentation Show Part Type Information,"Navigate to the homepage and enter contact, order parts, and return details. Click on various objects and input necessary information. Verify the displayed part type information.","Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Enter contact details, order parts, and provide return details
-	- Step 1: Click on input field 'contactState'
-	- Step 2: Enter input value in input field 'contactState'
-	- Step 3: Click on select 'contactCountryCode'
-	- Step 4: Enter input value in input field 'contactPhone'
-	- Step 5: Click on input field 'orderablePartNumber'
-	- Step 6: Enter input value in input field 'orderablePartNumber'
-	- Step 7: Click on list item
-	- Step 8: Click on label
-	- Step 9: Click on label
-	- Step 10: Click on input field 'purchaseType'
-	- Step 11: Click on label
-	- Step 12: Click on input field 'endCustchk'
-	- Step 13: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showReturnDetails.tsp'
-	- Step 14: Click on label
-	- Step 15: Click on input field 'reasonForReturn'
-	- Step 16: Click on select 'defectApplicationId'
-	- Step 17: Click on select 'defectPlaceId'
-	- Step 18: Click on select 'electricalSubType'
-	- Step 19: Enter input value in textarea 'provideDetailsForElectricalIssue'
-	- Step 20: Click on button 'Submit1'
-Step 3: Click on label
-Step 4: Click on input field 'isPrgrmOrLowRfDevice1'
-Step 5: Click on input field 'temperature1'
-Step 6: Click on label
-Step 7: Click on label
-Step 8: Click on input field 'failPartsCondition1'
-Step 9: Click on label
-Step 10: Click on label
-Step 11: Click on input field 'boardFailPartSwap1'
-Step 12: Click on label
-Step 13: Click on link '1'
-Step 14: Enter input value in input field 'totalOrderedQty'
-Step 15: Click on div
-Step 16: Click on link '1'
-Step 17: Take full page screenshot as checkpoint
-",High
-42,Verify Homepage Display in Spanish Mexico Language,Navigate to the Spanish (Mexico) homepage. Access the specified objects and verify the display of the homepage.,"Step 1: Navigate to https://www-int.itg.ti.com/es-mx/homepage.html
-Step 2: Click on link
-Step 3: Click on link 'RF y microondas'
-Step 4: Take full page screenshot as checkpoint
-",High
-17,Verify Product Returns Documentation Show Part Type Information after Creating Return,Navigate to the product returns documentation page and input contact and order details. Select purchase type and provide details for the electrical issue. Submit the form and verify the displayed part type information.,"Step 1: Navigate to https://www-int.itg.ti.com/productreturns/docs/createReturn.tsp
-Step 2: Click on input field 'contactState'
-Step 3: Enter input value in input field 'contactState'
-Step 4: Click on select 'contactCountryCode'
-Step 5: Enter input value in input field 'contactPhone'
-Step 6: Click on input field 'orderablePartNumber'
-Step 7: Enter input value in input field 'orderablePartNumber'
-Step 8: Click on list item
-Step 9: Click on label
-Step 10: Click on label
-Step 11: Click on input field 'purchaseType'
-Step 12: Click on label
-Step 13: Click on input field 'endCustchk'
-Step 14: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showReturnDetails.tsp'
-Step 15: Click on label
-Step 16: Click on input field 'reasonForReturn'
-Step 17: Click on select 'defectApplicationId'
-Step 18: Click on select 'defectPlaceId'
-Step 19: Click on select 'electricalSubType'
-Step 20: Enter input value in textarea 'provideDetailsForElectricalIssue'
-Step 21: Click on button 'Submit1' -> Navigate to page 'productreturns/docs/showPartTypeInfo.tsp'
-Step 22: Take full page screenshot as checkpoint
-",High
-8,Verify Design and Development Partner Directory Search Functionality,Navigate to the applications page and access the design development section. Proceed to the partner directory and perform a search. Verify the functionality of the search feature.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Click on link 'Applications'
-Step 3: Click on link 'Design & development'
-Step 4: Click on link 'Partner directory' -> Navigate to page 'design-development/partner-directory.html'
-Step 5: Click on ti  -> Navigate to page 'sitesearch/en-us/docs/universalsearch.tsp'
-Step 6: Take full page screenshot as checkpoint
-",Medium
-2,Verify Power Management Products Display on Homepage,Navigate to the homepage and access the products section. Click on power management and verify the display of the homepage.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Click on link 'Menu'
-Step 3: Click on link 'Products'
-Step 4: Click on link 'Power management'
-Step 5: Take full page screenshot as checkpoint
-",Medium
-5,Verify MyTI Dashboard Display,Navigate to the homepage and access the MyTI dashboard. Verify the display of the MyTI dashboard.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Click on ti
-Step 3: Click on ti  -> Navigate to page 'myti-dashboard/docs/mytidashboard'
-Step 4: Take full page screenshot as checkpoint
-",Medium
-41,Verify Access API Keys and Access Documentation,Navigate to the MyTI dashboard and access the API keys and access section. Click on specified objects and verify the access API documentation.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Click on ti  -> Navigate to page 'myti-dashboard/docs/mytidashboard'
-Step 3: Click on link 'API keys and access' -> Navigate to page 'myti/docs/accessApi'
-Step 4: Click on span
-Step 5: Take full page screenshot as checkpoint
-",Medium
-39,Verify Checkout Profiles Display,Navigate to the homepage and access the MyTI dashboard. Proceed to the checkout profiles section and verify the display of checkout profiles.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Click on ti  -> Navigate to page 'myti-dashboard/docs/mytidashboard'
-Step 3: Click on link 'Checkout profiles' -> Navigate to page 'checkoutprofile/web/checkoutprofiles'
-Step 4: Take full page screenshot as checkpoint
-",Medium
-46,Verify Homepage Display in Korean Language,Navigate to the Korean homepage. Access the specified objects and verify the display of the homepage.,"Step 1: Navigate to https://www-int.itg.ti.com/ko-kr/homepage.html
-Step 2: Click on link '메뉴'
-Step 3: Click on link '전원 관리'
-Step 4: Take full page screenshot as checkpoint
-",Medium
-7,Verify Universal Search Functionality on Homepage,Navigate to the homepage and perform a search using the search box. Verify the functionality of the universal search feature.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Click on atomic 'headerSearchBox' -> Navigate to page 'sitesearch/en-us/docs/universalsearch.tsp'
-Step 3: Click on atomic 'headerSearchBox'
-Step 4: Take full page screenshot as checkpoint
+2,Manage and Edit User Addresses in Checkout Profiles,"Navigate to user dashboard, manage addresses, edit entries, and verify changes on the home page.","Step 1: Navigate to https://www-int.itg.ti.com/myti-dashboard/docs/mytidashboard
+Step 2: Click on link addresses -> Navigate to page 'checkoutprofile/web/addresses'
+Step 3: Click on span addNew
+Step 4: Click on span addNew
+Step 5: Click on span addNew -> Navigate to page 'checkoutprofile/web/addresses/add'
+Step 6: Click on div newAddressRequiredRegion
+Step 7: Click on div newAddressRequiredRegion
+Step 8: Click on div newAddressRequiredRegion -> Navigate to page 'checkoutprofile/web/addresses'
+Step 9: Click on link edit46000
+Step 10: Click on link edit46000
+Step 11: Click on link edit46000 -> Navigate to page ''
+Step 12: Take full page screenshot as checkpoint
 ",Low
-1,Verify Power Management Display on Homepage,Navigate to the homepage and access the specified objects related to power management. Verify the display of the homepage.,"Step 1: Navigate to https://www-int.itg.ti.com/
-Step 2: Click on link
-Step 3: Click on link 'Power management'
-Step 4: Take full page screenshot as checkpoint
+1,Interact with Checkout Profile Addresses and Dialogs,"Navigate to the checkout profile page, manage addresses, interact with dialogs, and verify changes on the home page.","Step 1: Navigate to https://www-int.itg.ti.com/
+Step 2: Click on ti login
+Step 3: Click on ti login
+Step 4: Navigate to checkout profiles, edit and delete entries
+	- Step 1: Click on link checkoutProfiles -> Navigate to page 'checkoutprofile/web/checkoutprofiles'
+	- Step 2: Click on link editDelete
+	- Step 3: Click on link editDelete
+	- Step 4: Click on link editDelete -> Navigate to page 'checkoutprofile/web/checkoutprofiles/edit/*'
+	- Step 5: Click on div shippingAndBillingAddress
+	- Step 6: Click on div shippingAndBillingAddress
+	- Step 7: Click on div shippingAndBillingAddress
+Step 5: Click on ti buttonSecondaryNth3
+Step 6: Interact with secondary buttons and checkout profile addresses
+	- Step 1: Click on ti buttonSecondaryNth3
+	- Step 2: Click on ti buttonSecondaryNth3
+	- Step 3: Click on ti checkoutProfileAddress
+	- Step 4: Click on ti checkoutProfileAddress
+	- Step 5: Click on ti checkoutProfileAddress
+Step 7: Manage checkout profile addresses
+	- Step 1: Click on ti checkoutProfileAddress
+	- Step 2: Click on ti checkoutProfileAddress
+	- Step 3: Click on ti checkoutProfileAddress
+	- Step 4: Click on ti checkoutProfileAddEditAddress
+	- Step 5: Click on ti checkoutProfileAddEditAddress
+	- Step 6: Click on ti checkoutProfileAddEditAddress
+Step 8: Access and interact with checkout profile addresses and dialogs
+	- Step 1: Click on ti checkoutProfileAddress
+	- Step 2: Click on ti checkoutProfileAddress
+	- Step 3: Click on ti checkoutProfileAddress
+	- Step 4: Click on ti dialog
+	- Step 5: Click on ti dialog
+Step 9: Click on ti dialog -> Navigate to page ''
+Step 10: Take full page screenshot as checkpoint
+",Trivial
+4,Manage and Edit Checkout Profile Addresses and Tax,"Navigate to checkout profiles, manage addresses and tax information, and verify changes on the home page.","Step 1: Navigate to https://www-int.itg.ti.com/checkoutprofile/web/checkoutprofiles/add
+Step 2: Click on ti login
+Step 3: Click on ti login
+Step 4: Click on ti login -> Navigate to page 'myti-dashboard/docs/mytidashboard'
+Step 5: Click on link addresses -> Navigate to page 'checkoutprofile/web/addresses'
+Step 6: Click on tiButton main
+Step 7: Click on tiButton main
+Step 8: Click on tiButton main -> Navigate to page 'checkoutprofile/web/addresses/add'
+Step 9: Click on div newAddressRequiredRegion
+Step 10: Click on div newAddressRequiredRegion
+Step 11: Click on div newAddressRequiredRegion
+Step 12: Click on div newAddressRequiredRegion
+Step 13: Click on div newAddressRequiredRegion
+Step 14: Click on div newAddressRequiredRegion
+Step 15: Click on ti login
+Step 16: Click on ti login
+Step 17: Click on ti login
+Step 18: Click on ti login
+Step 19: Click on ti login
+Step 20: Click on ti login
+Step 21: Navigate to checkout profiles, edit and delete entries
+	- Step 1: Click on link checkoutProfiles -> Navigate to page 'checkoutprofile/web/checkoutprofiles'
+	- Step 2: Click on link editDelete
+	- Step 3: Click on link editDelete
+	- Step 4: Click on link editDelete -> Navigate to page 'checkoutprofile/web/checkoutprofiles/edit/*'
+	- Step 5: Click on div shippingAndBillingAddress
+	- Step 6: Click on div shippingAndBillingAddress
+	- Step 7: Click on div shippingAndBillingAddress
+Step 22: Click on ti dialog
+Step 23: Click on ti dialog
+Step 24: Click on ti dialog
+Step 25: Access and interact with checkout profile addresses and dialogs
+	- Step 1: Click on ti checkoutProfileAddress
+	- Step 2: Click on ti checkoutProfileAddress
+	- Step 3: Click on ti checkoutProfileAddress
+	- Step 4: Click on ti dialog
+	- Step 5: Click on ti dialog
+Step 26: Click on div shippingAndBillingAddress
+Step 27: Click on div shippingAndBillingAddress
+Step 28: Click on div shippingAndBillingAddress
+Step 29: Manage checkout profile addresses
+	- Step 1: Click on ti checkoutProfileAddress
+	- Step 2: Click on ti checkoutProfileAddress
+	- Step 3: Click on ti checkoutProfileAddress
+	- Step 4: Click on ti checkoutProfileAddEditAddress
+	- Step 5: Click on ti checkoutProfileAddEditAddress
+	- Step 6: Click on ti checkoutProfileAddEditAddress
+Step 30: Manage checkout profile addresses
+	- Step 1: Click on ti checkoutProfileAddress
+	- Step 2: Click on ti checkoutProfileAddress
+	- Step 3: Click on ti checkoutProfileAddress
+	- Step 4: Click on ti checkoutProfileAddEditAddress
+	- Step 5: Click on ti checkoutProfileAddEditAddress
+	- Step 6: Click on ti checkoutProfileAddEditAddress
+Step 31: Click on div shippingAndBillingAddress
+Step 32: Click on div shippingAndBillingAddress
+Step 33: Click on div shippingAndBillingAddress
+Step 34: Click on ti checkoutProfileAddress
+Step 35: Click on ti checkoutProfileAddress
+Step 36: Click on ti checkoutProfileAddress
+Step 37: Click on div shippingAndBillingAddress
+Step 38: Click on div shippingAndBillingAddress
+Step 39: Click on div shippingAndBillingAddress
+Step 40: Interact with secondary buttons and checkout profile addresses
+	- Step 1: Click on ti buttonSecondaryNth3
+	- Step 2: Click on ti buttonSecondaryNth3
+	- Step 3: Click on ti checkoutProfileAddress
+	- Step 4: Click on ti checkoutProfileAddress
+	- Step 5: Click on ti checkoutProfileAddress
+Step 41: Click on div shippingAndBillingAddress
+Step 42: Click on div shippingAndBillingAddress
+Step 43: Click on div shippingAndBillingAddress
+Step 44: Access and interact with checkout profile addresses and dialogs
+	- Step 1: Click on ti checkoutProfileAddress
+	- Step 2: Click on ti checkoutProfileAddress
+	- Step 3: Click on ti checkoutProfileAddress
+	- Step 4: Click on ti dialog
+	- Step 5: Click on ti dialog
+Step 45: Click on ti dialog
+Step 46: Click on ti checkoutProfileAddEditAddress
+Step 47: Click on ti checkoutProfileAddEditAddress
+Step 48: Click on ti checkoutProfileAddEditAddress
+Step 49: Click on div shippingAndBillingAddress
+Step 50: Click on div shippingAndBillingAddress
+Step 51: Click on div shippingAndBillingAddress
+Step 52: Access and interact with checkout profile addresses and dialogs
+	- Step 1: Click on ti checkoutProfileAddress
+	- Step 2: Click on ti checkoutProfileAddress
+	- Step 3: Click on ti checkoutProfileAddress
+	- Step 4: Click on ti dialog
+	- Step 5: Click on ti dialog
+Step 53: Click on ti dialog
+Step 54: Click on ti checkoutProfileAddEditAddress
+Step 55: Click on ti checkoutProfileAddEditAddress
+Step 56: Click on ti checkoutProfileAddEditAddress
+Step 57: Manage checkout profile addresses
+	- Step 1: Click on ti checkoutProfileAddress
+	- Step 2: Click on ti checkoutProfileAddress
+	- Step 3: Click on ti checkoutProfileAddress
+	- Step 4: Click on ti checkoutProfileAddEditAddress
+	- Step 5: Click on ti checkoutProfileAddEditAddress
+	- Step 6: Click on ti checkoutProfileAddEditAddress
+Step 58: Manage checkout profile addresses
+	- Step 1: Click on ti checkoutProfileAddress
+	- Step 2: Click on ti checkoutProfileAddress
+	- Step 3: Click on ti checkoutProfileAddress
+	- Step 4: Click on ti checkoutProfileAddEditAddress
+	- Step 5: Click on ti checkoutProfileAddEditAddress
+	- Step 6: Click on ti checkoutProfileAddEditAddress
+Step 59: Manage checkout profile addresses
+	- Step 1: Click on ti checkoutProfileAddress
+	- Step 2: Click on ti checkoutProfileAddress
+	- Step 3: Click on ti checkoutProfileAddress
+	- Step 4: Click on ti checkoutProfileAddEditAddress
+	- Step 5: Click on ti checkoutProfileAddEditAddress
+	- Step 6: Click on ti checkoutProfileAddEditAddress
+Step 60: Enter input value in ti checkoutProfileAddEditAddress
+Step 61: Click on ti checkoutProfileAddress
+Step 62: Enter input value in ti checkoutProfileAddEditAddress
+Step 63: Click on ti checkoutProfileAddress
+Step 64: Enter input value in ti checkoutProfileAddEditAddress
+Step 65: Click on ti checkoutProfileAddress
+Step 66: Click on ti checkoutProfileAddEditAddress
+Step 67: Click on ti checkoutProfileAddEditAddress
+Step 68: Click on ti checkoutProfileAddEditAddress
+Step 69: Enter input value in ti checkoutProfileAddEditAddress
+Step 70: Click on ti checkoutProfileAddress
+Step 71: Enter input value in ti checkoutProfileAddEditAddress
+Step 72: Click on ti checkoutProfileAddress
+Step 73: Enter input value in ti checkoutProfileAddEditAddress
+Step 74: Click on ti checkoutProfileAddress
+Step 75: Click on ti checkoutProfileAddEditAddress
+Step 76: Click on ti checkoutProfileAddEditAddress
+Step 77: Click on ti checkoutProfileAddEditAddress
+Step 78: Enter input value in ti checkoutProfileAddEditAddress
+Step 79: Click on ti buttonSecondaryNth3
+Step 80: Enter input value in ti checkoutProfileAddEditAddress
+Step 81: Click on ti buttonSecondaryNth3
+Step 82: Enter input value in ti checkoutProfileAddEditAddress
+Step 83: Click on ti buttonSecondaryNth3
+Step 84: Click on ti checkoutProfileAddress
+Step 85: Click on ti checkoutProfileAddress
+Step 86: Click on ti checkoutProfileAddress
+Step 87: Click on div shippingAndBillingAddress
+Step 88: Click on div shippingAndBillingAddress
+Step 89: Click on div shippingAndBillingAddress
+Step 90: Click on div shippingAndBillingAddress
+Step 91: Click on div shippingAndBillingAddress
+Step 92: Click on div shippingAndBillingAddress
+Step 93: Click on ti checkoutProfileAddress
+Step 94: Click on ti checkoutProfileAddress
+Step 95: Click on ti checkoutProfileAddress
+Step 96: Click on ti checkoutProfileTax
+Step 97: Click on ti checkoutProfileTax
+Step 98: Click on ti checkoutProfileTax
+Step 99: Click on div shippingAndBillingAddress
+Step 100: Click on div shippingAndBillingAddress
+Step 101: Click on ti checkoutProfileAddress
+Step 102: Click on ti checkoutProfileAddress
+Step 103: Click on ti checkoutProfileAddress -> Navigate to page ''
+Step 104: Take full page screenshot as checkpoint
 ",Trivial
